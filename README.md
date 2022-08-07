@@ -5,12 +5,9 @@
 [Use case diagram](https://github.com/SleeplessKnight/blog-web-app/blob/master/Diagram/UseCaseDiagram%20_%20Group3%20_%20Blogging%20Site.jpeg)
 
 ### Contributers:
-- [Jim Ar Rafi](https://github.com/JimArRafi10) 
-> [Client-side](https://github.com/SleeplessKnight/blog-web-app/tree/master/client) 
+- [Jim Ar Rafi](https://github.com/JimArRafi10) (Implemented Client-side)
 
-- [A.S.M Imrul Kayes](https://github.com/asmimrul007) 
-> [Server-side](https://github.com/SleeplessKnight/blog-web-app/tree/master/server) 
+- [A.S.M Imrul Kayes](https://github.com/asmimrul007) (Implemented Server-side)
 
-- [Raihan Munim](https://github.com/raihanrms) 
-> [Implemented REST API](https://github.com/SleeplessKnight/blog-web-app/blob/master/api/important.md)
+- [Raihan Munim](https://github.com/raihanrms) (Implemented REST API)
 
