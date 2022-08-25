@@ -7,7 +7,7 @@
 - Delete/Update posts
 
 ### Installed packages with commands
-```console
+```properties
 - npm add express mongoose dotenv multer
 - npm init 
 - npm add nodemon
