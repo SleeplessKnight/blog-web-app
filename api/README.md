@@ -1,10 +1,12 @@
 ## _Implemented **REST API** using Node.js and MongoDB for this web project._
 
 ### What has been implemented:
+```text
 - Create new user
 - Register and Login
 - Can create post with image
 - Delete/Update posts
+```
 
 ### Installed packages with commands
 ```console
